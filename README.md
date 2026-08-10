@@ -1,4 +1,4 @@
-## Business analysis project defining healthcare mobile-platform requirements, business rules, workflows and system interactions using BPMN and UML.
+**Business analysis project defining healthcare mobile-platform requirements, business rules, workflows and system interactions using BPMN and UML.
 
 ## Project Snapshot
 
