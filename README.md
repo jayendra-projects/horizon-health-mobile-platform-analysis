@@ -1,5 +1,7 @@
-# horizon-health-mobile-platform-analysis
-Business analysis project defining healthcare mobile-platform requirements, business rules, workflows and system interactions using BPMN and UML.
+# Horizon Health – Mobile Platform Requirements & Process Modelling
+
+> Business analysis project defining healthcare mobile-platform requirements, business rules, workflows and system interactions using BPMN and UML.
+
 
 ## Project Snapshot
 
